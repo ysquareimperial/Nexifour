@@ -11,7 +11,7 @@ function App() {
     <>
       <div>
         <a href="https://vitejs.dev" target="_blank"></a>
-        <img src={nexifourLogo} className="logo" alt="Vite logo" />
+        <img src={nexifourLogo} className="logo" alt="Nexifour logo" />
       </div>
       <h2>Nexifour LLC</h2>
       <div className="card">
