@@ -17,7 +17,11 @@ function App() {
           className="text-white d-flex justify-content-center gap-5 left_col"
         >
           <div>
-            {/* <img src={logo} alt="nexifour logo" className="logo" /> */}
+            <img
+              src="https://res.cloudinary.com/dcfqfhsuv/image/upload/v1711977608/na-white_i1x7mo.png"
+              alt="nexifour logo"
+              className="logo shadow"
+            />
           </div>
           <div>
             <p>
@@ -42,18 +46,18 @@ function App() {
           md={5}
           className="d-flex align-items-center justify-content-center gap-5"
         >
-          {/* <img
-            src={na}
-            className="na"
+          <img
+            src="https://res.cloudinary.com/dcfqfhsuv/image/upload/v1711977608/na_evq6bg.png"
+            className="shadow na"
             alt="nexifour logo"
             style={{ width: 100 }}
           />
           <img
-            src={na}
-            className="na"
+            src="https://res.cloudinary.com/dcfqfhsuv/image/upload/v1711977609/nf_jvrtnj.png"
+            className="shadow na"
             alt="nexifour logo"
             style={{ width: 100 }}
-          /> */}
+          />
         </Col>
         <Col md={1}></Col>
       </Row>
