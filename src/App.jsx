@@ -1,6 +1,6 @@
-import { Col, Container, Row } from "reactstrap";
+import { Col, Row } from "reactstrap";
 import "./App.css";
-import logo from "../src/assets/na-white.PNG";
+import logo from "../src/assets/na-white.png";
 import { FaFacebookF } from "react-icons/fa6";
 import { FaXTwitter } from "react-icons/fa6";
 import { FaInstagram } from "react-icons/fa6";
