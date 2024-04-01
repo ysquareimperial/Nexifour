@@ -1,6 +1,6 @@
 import { Col, Row } from "reactstrap";
 import "./App.css";
-import logo from "../src/assets/na-white.png";
+// import logo from "../src/assets/na-white.png";
 import { FaFacebookF } from "react-icons/fa6";
 import { FaXTwitter } from "react-icons/fa6";
 import { FaInstagram } from "react-icons/fa6";
@@ -17,7 +17,7 @@ function App() {
           className="text-white d-flex justify-content-center gap-5 left_col"
         >
           <div>
-            <img src={logo} alt="nexifour logo" className="logo" />
+            {/* <img src={logo} alt="nexifour logo" className="logo" /> */}
           </div>
           <div>
             <p>
