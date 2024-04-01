@@ -6,7 +6,7 @@ import { FaXTwitter } from "react-icons/fa6";
 import { FaInstagram } from "react-icons/fa6";
 import { FaTiktok } from "react-icons/fa6";
 import { FaLinkedinIn } from "react-icons/fa6";
-import na from "../src/assets/na.PNG";
+// import na from "../src/assets/na.PNG";
 function App() {
   return (
     <>
@@ -42,7 +42,7 @@ function App() {
           md={5}
           className="d-flex align-items-center justify-content-center gap-5"
         >
-          <img
+          {/* <img
             src={na}
             className="na"
             alt="nexifour logo"
@@ -53,7 +53,7 @@ function App() {
             className="na"
             alt="nexifour logo"
             style={{ width: 100 }}
-          />
+          /> */}
         </Col>
         <Col md={1}></Col>
       </Row>
